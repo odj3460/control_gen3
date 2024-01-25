@@ -1,0 +1,8 @@
+# NOTE: Used for both 6 and 7 dof bots. The joint_7 value will be unused for 6 dof bots
+d7_joint_1: 0.0
+d7_joint_2: 0.0
+d7_joint_3: 0.0
+d7_joint_4: 0.0
+d7_joint_5: 0.0
+d7_joint_6: 0.0
+d7_joint_7: 0.0
